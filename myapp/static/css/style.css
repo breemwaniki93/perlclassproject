@@ -1,0 +1,10 @@
+h2{
+    color: red;
+}
+p{
+    color: blue;
+}
+.resized-image {
+    width: 300px;
+    height: auto;
+}
